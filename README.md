@@ -13,7 +13,4 @@ Members
 
 6 นายศิรสิทธิ์ ทราบรัมย์ 2113211532
 
-Video Review
-
-Export game 
-
+Video Review https://drive.google.com/file/d/1U1M4_rZxn9dtxhvj_nkp1dJDF1grmzY9/view
