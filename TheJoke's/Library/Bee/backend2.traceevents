@@ -1,0 +1,259 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1710839146113244, "dur":19019, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1710839146132269, "dur":68, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1710839146132368, "dur":384, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1710839146133538, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1710839146132797, "dur":3443, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1710839146136242, "dur":275458, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1710839146411702, "dur":276, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1710839146412137, "dur":1735, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1710839146133027, "dur":3219, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1710839146136248, "dur":5292, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1710839146142425, "dur":405, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":1, "ts":1710839146142832, "dur":79, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1710839146142926, "dur":59, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1710839146211733, "dur":130, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Player30cf7f82-inputdata.json" }}
+,{ "pid":12345, "tid":1, "ts":1710839146142832, "dur":69120, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1710839146212147, "dur":104495, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1710839146316916, "dur":90574, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1710839146410967, "dur":77, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1710839146410966, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/TheJokeFinal/TheJoke'sOnYou_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1710839146411055, "dur":595, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1710839146133069, "dur":3188, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1710839146136259, "dur":1019, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1710839146137279, "dur":4280, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1710839146141560, "dur":138, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/TheJokeFinal/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1710839146141698, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1710839146149327, "dur":720, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1710839146150236, "dur":104309, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":2, "ts":1710839146254589, "dur":157096, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1710839146133063, "dur":3188, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1710839146136254, "dur":903, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1710839146137157, "dur":4399, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1710839146141556, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/TheJokeFinal/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1710839146141614, "dur":104, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1710839146148491, "dur":566, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1710839146149178, "dur":691, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1710839146149907, "dur":517, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\WindowsPlayer.exe" }}
+,{ "pid":12345, "tid":3, "ts":1710839146149906, "dur":518, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/TheJokeFinal/TheJoke'sOnYou.exe" }}
+,{ "pid":12345, "tid":3, "ts":1710839146150435, "dur":1032, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou.exe" }}
+,{ "pid":12345, "tid":3, "ts":1710839146151531, "dur":2393, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710839146153980, "dur":942, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710839146154980, "dur":644, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710839146155687, "dur":582, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710839146156327, "dur":1902, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710839146158285, "dur":839, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710839146159173, "dur":389, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Suityan\\HorrorGame\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710839146159171, "dur":392, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710839146159576, "dur":797, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710839146160419, "dur":182, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Suityan\\HorrorGame\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710839146160417, "dur":184, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710839146160612, "dur":883, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710839146161549, "dur":652, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710839146162259, "dur":576, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710839146162902, "dur":625, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710839146163582, "dur":855, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710839146164502, "dur":689, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710839146165246, "dur":26387, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710839146191707, "dur":890, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710839146192666, "dur":982, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710839146193816, "dur":1042, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710839146194914, "dur":1018, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710839146196002, "dur":1425, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710839146197552, "dur":141700, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710839146339292, "dur":72397, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1710839146133090, "dur":3172, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1710839146136265, "dur":973, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1710839146137238, "dur":4310, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1710839146141566, "dur":129, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.21f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1710839146141551, "dur":145, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/TheJokeFinal/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1710839146141697, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1710839146148011, "dur":638, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1710839146148764, "dur":792, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1710839146149600, "dur":66, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.21f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710839146149598, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/TheJokeFinal/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710839146149812, "dur":958, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710839146150853, "dur":2151, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710839146153086, "dur":808, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710839146153961, "dur":1028, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710839146155083, "dur":792, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710839146155934, "dur":520, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710839146156520, "dur":707, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710839146157298, "dur":736, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710839146158115, "dur":795, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710839146158959, "dur":363, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Suityan\\HorrorGame\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710839146158957, "dur":366, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710839146159335, "dur":959, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710839146160346, "dur":80, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Suityan\\HorrorGame\\Library\\Bee\\PlayerScriptAssemblies\\Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710839146160345, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710839146160440, "dur":782, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710839146161278, "dur":555, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710839146161887, "dur":660, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710839146162611, "dur":773, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710839146163452, "dur":867, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710839146164375, "dur":771, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710839146165201, "dur":26261, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710839146191528, "dur":950, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710839146192552, "dur":976, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710839146193603, "dur":1194, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710839146194854, "dur":930, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710839146195856, "dur":872, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710839146196795, "dur":626, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710839146197488, "dur":613, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/sharedassets4.assets" }}
+,{ "pid":12345, "tid":4, "ts":1710839146198148, "dur":1731, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":4, "ts":1710839146199946, "dur":833, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":4, "ts":1710839146200840, "dur":658, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/level4" }}
+,{ "pid":12345, "tid":4, "ts":1710839146201566, "dur":979, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/level2.resS" }}
+,{ "pid":12345, "tid":4, "ts":1710839146202602, "dur":695, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/level0" }}
+,{ "pid":12345, "tid":4, "ts":1710839146203335, "dur":208352, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1710839146133114, "dur":3154, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1710839146136270, "dur":977, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1710839146137247, "dur":4306, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1710839146141581, "dur":139, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.21f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":5, "ts":1710839146141554, "dur":167, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/TheJokeFinal/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1710839146141721, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1710839146167379, "dur":23928, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1710839146191373, "dur":1142, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710839146192613, "dur":993, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710839146193683, "dur":1219, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710839146195005, "dur":971, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710839146196051, "dur":1168, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710839146197325, "dur":887, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710839146198296, "dur":1186, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":5, "ts":1710839146199532, "dur":721, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":5, "ts":1710839146200329, "dur":876, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/level4.resS" }}
+,{ "pid":12345, "tid":5, "ts":1710839146201262, "dur":832, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/level3.resS" }}
+,{ "pid":12345, "tid":5, "ts":1710839146202303, "dur":752, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/level1" }}
+,{ "pid":12345, "tid":5, "ts":1710839146203168, "dur":830, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":5, "ts":1710839146204043, "dur":207639, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1710839146133150, "dur":3123, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1710839146136274, "dur":993, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1710839146137267, "dur":4291, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1710839146141572, "dur":126, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.21f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1710839146141559, "dur":140, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/TheJokeFinal/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1710839146156397, "dur":513, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1710839146156980, "dur":1374, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710839146158391, "dur":96, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Suityan\\HorrorGame\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710839146158390, "dur":98, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710839146158502, "dur":755, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710839146159314, "dur":346, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Suityan\\HorrorGame\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710839146159313, "dur":349, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710839146159677, "dur":845, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710839146160577, "dur":907, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710839146161570, "dur":768, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710839146162409, "dur":689, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710839146163173, "dur":579, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710839146163835, "dur":975, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710839146164872, "dur":26309, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710839146191267, "dur":1114, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710839146192474, "dur":814, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710839146193353, "dur":1047, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710839146194470, "dur":1001, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710839146195527, "dur":831, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710839146196420, "dur":843, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710839146197328, "dur":908, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710839146198289, "dur":1831, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":6, "ts":1710839146200265, "dur":1074, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/resources.assets" }}
+,{ "pid":12345, "tid":6, "ts":1710839146201396, "dur":711, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/level3" }}
+,{ "pid":12345, "tid":6, "ts":1710839146202171, "dur":662, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/level1.resS" }}
+,{ "pid":12345, "tid":6, "ts":1710839146202895, "dur":2116, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1710839146205042, "dur":206657, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1710839146133181, "dur":3094, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1710839146136277, "dur":902, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1710839146137180, "dur":4365, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1710839146142312, "dur":379, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":7, "ts":1710839146142879, "dur":1649, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/app.info" }}
+,{ "pid":12345, "tid":7, "ts":1710839146144845, "dur":447, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1710839146145431, "dur":398, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1710839146145910, "dur":427, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1710839146146417, "dur":386, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1710839146146962, "dur":588, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1710839146147611, "dur":54, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.21f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":7, "ts":1710839146147608, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/TheJokeFinal/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1710839146147836, "dur":653, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1710839146148623, "dur":613, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1710839146149287, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/TheJokeFinal/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1710839146149504, "dur":624, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1710839146150363, "dur":3243, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710839146153666, "dur":756, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710839146154474, "dur":994, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710839146155522, "dur":672, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710839146156250, "dur":1182, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710839146157523, "dur":739, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710839146158316, "dur":674, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710839146159028, "dur":180, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Suityan\\HorrorGame\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710839146159026, "dur":183, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710839146159225, "dur":731, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710839146160000, "dur":547, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Suityan\\HorrorGame\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710839146159999, "dur":548, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710839146160557, "dur":819, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710839146161439, "dur":535, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710839146162026, "dur":619, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710839146162722, "dur":631, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710839146163418, "dur":745, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710839146164229, "dur":715, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710839146165026, "dur":26460, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710839146191553, "dur":1053, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710839146192662, "dur":811, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710839146193525, "dur":1069, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710839146194674, "dur":720, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710839146195469, "dur":860, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710839146196383, "dur":862, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710839146197321, "dur":764, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710839146198142, "dur":1066, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":7, "ts":1710839146199280, "dur":673, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":7, "ts":1710839146200035, "dur":1556, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1710839146201649, "dur":704, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/level2" }}
+,{ "pid":12345, "tid":7, "ts":1710839146202400, "dur":772, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/level0.resS" }}
+,{ "pid":12345, "tid":7, "ts":1710839146203219, "dur":716, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":7, "ts":1710839146203989, "dur":207691, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1710839146133204, "dur":3075, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1710839146137190, "dur":74347, "ph":"X", "name": "File",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1710839146136281, "dur":75257, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1710839146211538, "dur":200152, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1710839146133224, "dur":3067, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1710839146136293, "dur":1015, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1710839146137308, "dur":4244, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1710839146141558, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/TheJokeFinal/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":9, "ts":1710839146141624, "dur":96, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1710839146148820, "dur":751, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":9, "ts":1710839146149708, "dur":53, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.21f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":9, "ts":1710839146149706, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/TheJokeFinal/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":9, "ts":1710839146149834, "dur":150898, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":9, "ts":1710839146300772, "dur":110932, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1710839146133255, "dur":3041, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1710839146136296, "dur":5264, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1710839146141561, "dur":144, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/TheJokeFinal/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":10, "ts":1710839146141706, "dur":75, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1710839146191028, "dur":683, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":10, "ts":1710839146191779, "dur":850, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1710839146192685, "dur":805, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1710839146193543, "dur":1274, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1710839146194921, "dur":1044, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1710839146196032, "dur":1160, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1710839146197277, "dur":1019, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1710839146198336, "dur":13229, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/TheJokeFinal/TheJoke'sOnYou_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1710839146211641, "dur":161001, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1710839146372683, "dur":39010, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1710839146133297, "dur":3004, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1710839146136301, "dur":5245, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1710839146141584, "dur":128, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.21f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":11, "ts":1710839146141550, "dur":163, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/TheJokeFinal/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":11, "ts":1710839146157028, "dur":98403, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":11, "ts":1710839146255467, "dur":156216, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1710839146133317, "dur":2987, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1710839146136305, "dur":5245, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1710839146141553, "dur":150, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/TheJokeFinal/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":12, "ts":1710839146166878, "dur":24293, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":12, "ts":1710839146191262, "dur":1114, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1710839146192444, "dur":860, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1710839146193376, "dur":1045, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1710839146194543, "dur":675, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1710839146195282, "dur":773, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1710839146196115, "dur":1020, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1710839146197202, "dur":775, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1710839146198037, "dur":936, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":12, "ts":1710839146199071, "dur":5868, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/TheJokeFinal/TheJoke'sOnYou_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":12, "ts":1710839146204988, "dur":206691, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1710839146416444, "dur":942, "ph":"X", "name": "ProfilerWriteOutput" }
+,
